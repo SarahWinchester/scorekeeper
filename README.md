@@ -1,4 +1,6 @@
-# DESCRIPCION
+# SCOREKEEPER
+
+## DESCRIPCION
 En este repositorio  se creara el siguiente ejercicio:
 
 Imagina que estás jugando un juego con algunas amigas y quieres ir registrando el puntaje de cada una. Crea un object llamado scores donde los keys o propiedades son los nombres de tus amigas, y los valores serán los puntajes (todos empiezan con 0).
